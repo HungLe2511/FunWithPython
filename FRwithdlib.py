@@ -29,4 +29,5 @@ while(True):
         break
 cv2.destroyAllWindows()
 
-print("test github!!")
+# vô hiệu quá khối lệnh prin ở dòng thứ 32
+##print("test github!!")
